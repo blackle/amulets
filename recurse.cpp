@@ -1,6 +1,5 @@
 #include "examples/common.h"
 #include "llama.h"
-// #include "llama.cpp/build-info.h"
 
 #include <iostream>
 #include <vector>
